@@ -27,4 +27,4 @@ This will take O(N + 6logN) which is O(N) where N is the total number of hexagon
 2. Adding a hexagon just means adding it to our set which will take O(logN) time.
 3. To remove a hexagon, I first erased it from my cluster (set) and then did a customised DFS search to find whether all the hexagons are connected. If they are not I just simply add that hexagon back to our cluster. To travel from one hexagon to other in my case means to find the coordinate of the neighbor ( O(1) time comp ) and do search of these coordinates on my set (6logN cause there can be 6 neighbors), therefore the total time complexity for this action is O(NlogN).
 
-You can use my program interactively. I have attached sample input file and expected output file for the test cases provided in the problem document.
+You can use my program interactively. I have attached sample input file and output file for the test cases provided in the problem document. My output matches with the expected output as per my calculations.
