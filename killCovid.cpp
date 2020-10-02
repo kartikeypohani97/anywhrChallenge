@@ -240,7 +240,7 @@ public:
 
 int main()
 {
-    freopen("in.txt","r",stdin);freopen("out.txt","w",stdout);
+    //freopen("in.txt","r",stdin);freopen("out.txt","w",stdout);
     
     Cluster clus;
     int type;
