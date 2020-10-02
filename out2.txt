@@ -1,0 +1,36 @@
+Select the type of action you want to perform - 
+1. Query the neighbors of a hexagon.
+2. Add a hexagon to your cluster.
+3. Remove a hexagon from your cluster.
+4. Stop this program.
+Please provide the name of the already present hexagon, it's connecting border and the name of the new hexagon.
+Hexagon C added.
+Please provide the name of the already present hexagon, it's connecting border and the name of the new hexagon.
+Hexagon Z added.
+Please provide the name of the already present hexagon, it's connecting border and the name of the new hexagon.
+Hexagon Y added.
+Please provide the name of the already present hexagon, it's connecting border and the name of the new hexagon.
+Hexagon X added.
+Please provide the name of the already present hexagon, it's connecting border and the name of the new hexagon.
+Hexagon V added.
+Please provide the name of the already present hexagon, it's connecting border and the name of the new hexagon.
+Hexagon W added.
+Please provide the name of the already present hexagon, it's connecting border and the name of the new hexagon.
+Hexagon S added.
+Please provide the name of the already present hexagon, it's connecting border and the name of the new hexagon.
+Hexagon E added.
+Please provide the name of the already present hexagon, it's connecting border and the name of the new hexagon.
+Hexagon N added.
+Please provide the hexagon of which you want the find the neighbors.
+Neighbors of N are - 
+2 E
+5 C
+Please provide the hexagon of which you want the find the neighbors.
+Neighbors of C are - 
+2 N
+4 A
+Please provide the name of the already present hexagon that you want to delete.
+Hexagon N got removed.
+Please provide the hexagon of which you want the find the neighbors.
+Neighbors of C are - 
+4 A
